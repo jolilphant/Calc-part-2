@@ -6,6 +6,7 @@ part2:
 
 The user should be prompted to type input in on the same line when possible.
 your program needs to demonstrate a switch statement on the operation
+you are allowed to expect  input like this even for history: 0 h 0.
 
 
 part3:
